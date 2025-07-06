@@ -1,0 +1,70 @@
+MPLINK 5.08, LINKER
+Linker Map File - Created Thu Mar 27 00:55:44 2025
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x0000f0
+                   .cinit    romdata   0x0000f0    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x0000f1      
+            242 out of 33048 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   APAGAR   0x0000e8    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                 APROBADO   0x0000d4    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                  CATORCE   0x0000bc    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                    CINCO   0x000050    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                   CUATRO   0x000044    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                     DIEZ   0x00008c    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                     DOCE   0x0000a4    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                      DOS   0x00002c    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                   INICIO   0x000014    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                    NUEVE   0x000080    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                     OCHO   0x000074    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                     ONCE   0x000098    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                   QUINCE   0x0000c8    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                  REPETIR   0x0000e0    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                REPROBADO   0x0000da    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                     SEIS   0x00005c    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                    SIETE   0x000068    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                    TRECE   0x0000b0    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                     TRES   0x000038    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                      UNO   0x000020    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   INICIO   0x000014    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                      UNO   0x000020    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                      DOS   0x00002c    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                     TRES   0x000038    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                   CUATRO   0x000044    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                    CINCO   0x000050    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                     SEIS   0x00005c    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                    SIETE   0x000068    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                     OCHO   0x000074    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                    NUEVE   0x000080    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                     DIEZ   0x00008c    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                     ONCE   0x000098    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                     DOCE   0x0000a4    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                    TRECE   0x0000b0    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                  CATORCE   0x0000bc    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                   QUINCE   0x0000c8    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                 APROBADO   0x0000d4    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                REPROBADO   0x0000da    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                  REPETIR   0x0000e0    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+                   APAGAR   0x0000e8    program     static C:\Users\shans\MPLABXProjects\practica3.X\practica3.asm
+
+
