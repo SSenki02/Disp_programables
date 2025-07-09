@@ -1,0 +1,58 @@
+MPLINK 5.08, LINKER
+Linker Map File - Created Fri Mar 14 10:10:26 2025
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x0000b6
+                   .cinit    romdata   0x0000b6    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x0000b7      
+            184 out of 33048 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                  ENCTODO   0x000076    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                    ENCWX   0x0000ae    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                FINALIZAR   0x00007e    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                   INICIO   0x00001c    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                    OTROC   0x000086    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                   OTROD1   0x000094    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                   OTROD2   0x00009e    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                   OTROD3   0x0000a6    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                     SIGB   0x000038    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                    SIGC1   0x000046    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                    SIGC2   0x000050    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                    SIGD1   0x00005a    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                    SIGD2   0x000064    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                    SIGD3   0x00006e    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   INICIO   0x00001c    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                     SIGB   0x000038    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                    SIGC1   0x000046    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                    SIGC2   0x000050    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                    SIGD1   0x00005a    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                    SIGD2   0x000064    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                    SIGD3   0x00006e    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                  ENCTODO   0x000076    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                FINALIZAR   0x00007e    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                    OTROC   0x000086    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                   OTROD1   0x000094    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                   OTROD2   0x00009e    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                   OTROD3   0x0000a6    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                    ENCWX   0x0000ae    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+
+

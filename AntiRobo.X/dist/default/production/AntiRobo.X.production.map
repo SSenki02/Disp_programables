@@ -1,0 +1,68 @@
+MPLINK 5.08, LINKER
+Linker Map File - Created Sun Mar 23 20:21:47 2025
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x0000e8
+                   .cinit    romdata   0x0000e8    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x0000e9      
+            234 out of 33048 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                 AMARILLO   0x0000d4    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                   APAGAR   0x0000e0    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                     AZUL   0x0000da    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                  CATORCE   0x0000bc    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                    CINCO   0x000050    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                   CUATRO   0x000044    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                     DIEZ   0x00008c    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                     DOCE   0x0000a4    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                      DOS   0x00002c    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                   INICIO   0x000010    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                    NUEVE   0x000080    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                     OCHO   0x000074    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                     ONCE   0x000098    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                   QUINCE   0x0000c8    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                     SEIS   0x00005c    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                    SIETE   0x000068    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                    TRECE   0x0000b0    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                     TRES   0x000038    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                      UNO   0x000020    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   INICIO   0x000010    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                      UNO   0x000020    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                      DOS   0x00002c    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                     TRES   0x000038    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                   CUATRO   0x000044    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                    CINCO   0x000050    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                     SEIS   0x00005c    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                    SIETE   0x000068    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                     OCHO   0x000074    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                    NUEVE   0x000080    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                     DIEZ   0x00008c    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                     ONCE   0x000098    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                     DOCE   0x0000a4    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                    TRECE   0x0000b0    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                  CATORCE   0x0000bc    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                   QUINCE   0x0000c8    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                 AMARILLO   0x0000d4    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                     AZUL   0x0000da    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+                   APAGAR   0x0000e0    program     static C:\Users\shans\MPLABXProjects\AntiRobo.X\AntiRobo.asm
+
+
